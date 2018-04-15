@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LIBRAS: Memory Game</string>
+    <string name="textoActivity_00_01">Projeto Beethoven: aproximando as pessoas. O objetivo principal é incentivar o desenvolvimento de tecnologias para melhorar a acessibilidade.</string>
+    <string name="textoActivity_00_02">COMEÇAR</string>
+    <string name="textoActivity_00_04">Escolha o seu navegador de preferência:</string>
+    <string name="textoActivity_01_01">Jogo de Memória - fácil</string>
+    <string name="textoActivity_01_02">Jogo de Memória - médio</string>
+    <string name="textoActivity_01_03">Jogo de Memória - difícil</string>
+    <string name="textoActivity_01_04">ProjetoBeethoven.com.br</string>
+    <string name="textoActivity_01_05">Fale conosco</string>
+    <string name="textoActivity_01_06">Digite o seu texto...</string>
+    <string name="textoActivity_01_07">Escolha o seu aplicativo de envio de mensagens:</string>
+    <string name="textoActivity_01_08">Não há programas instalados para envio de mensagem! Configure diretamente no seu aparelho.</string>
+    <string name="textoActivity_01_09">Envio de mensagem do Aplicativo Memory Games</string>
+    <string name="textoActivity_01_10">Teclado LIBRAS</string>
+    <string name="textoActivity_02_01">NOVAS CARTAS</string>
+    <string name="textoActivity_05_01">Fontes: www.ideiacriativa.org</string>
+</resources>

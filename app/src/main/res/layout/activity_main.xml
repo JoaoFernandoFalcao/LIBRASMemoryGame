@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
+    tools:context="br.com.joao.librasmemorygame.MainActivity"
+    android:background="@color/material_deep_teal_200">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView01"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        android:src="@drawable/logobeethoven" />
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:text="@string/textoActivity_00_02"
+        android:id="@+id/button01"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="220dp"
+        android:textSize="25dp"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@android:color/background_light" />
+
+
+
+</RelativeLayout>

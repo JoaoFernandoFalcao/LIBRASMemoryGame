@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
+    tools:context="br.com.joao.librasmemorygame.Activity_02"
+    android:background="@color/material_deep_teal_200">
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView21"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/amolibras"/>
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView22"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="200dp"
+        android:src="@drawable/amolibras"/>
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView23"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/amolibras"/>
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView24"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="200dp"
+        android:src="@drawable/amolibras"/>
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView25"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/amolibras"/>
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView26"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="200dp"
+        android:src="@drawable/amolibras"/>
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView27"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/amolibras"/>
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView28"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="200dp"
+        android:src="@drawable/amolibras"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text="@string/textoActivity_02_01"
+        android:id="@+id/button21"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="450dp"
+        android:textSize="18dp"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@android:color/background_light" />
+
+</RelativeLayout>
